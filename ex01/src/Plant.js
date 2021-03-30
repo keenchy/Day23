@@ -8,7 +8,7 @@ class Plant extends React.Component {
         return ( <
             div >
             <
-            h1 > This is a Plant Component! < /h1>   < /
+            h2 > This is a Plant Component! < /h2>   < /
             div >
         );
     }
