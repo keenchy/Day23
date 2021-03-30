@@ -8,7 +8,7 @@ class Plant extends React.Component {
         return ( <
             div >
             <
-            h2 > Plant type is { this.state.type }! < /h2>   < /
+            h2 > Plant type is { this.state.type } < /h2>   < /
             div >
         );
     }
